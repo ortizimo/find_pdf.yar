@@ -1,9 +1,8 @@
-import "pe"
 
 rule find_pdf
 {
 	meta:
-		author = "Saulo 'Sal' Ortiz, Senior Cyber Forensics Analyst, ATG"
+		author = "Saulo 'Sal' Ortiz, Sr. Cyber Forensics Analyst, ATG"
 		description = "Simple rule to find .PDF documents"
 		date = "2021-10-22"
 		updated = "2022-01-28"
